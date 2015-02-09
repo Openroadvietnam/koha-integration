@@ -15,4 +15,6 @@ Tài liệu hướng dẫn cài đặt và tích hợp Koha tham khảo [đườ
 ###Kênh thông tin
 *	IRC: openroad on irc.freenode.net
 *	Mailing list: http://lists.openroad.vn/mailman/listinfo/
+
 ##Giấy phép sử dụng
+KOHA được phân phối kèm theo giấy phép GNU GPL v2.0. Nguyên văn giấy phép sử dụng có thể được xem trong file [LICENSE](LICENSE).
