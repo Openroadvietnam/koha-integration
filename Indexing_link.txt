@@ -1,7 +1,0 @@
-http://kohageek.pbworks.com/w/page/31484686/zebra%20configuration%20for%20regional%20language%20searching
-
-http://kohageek.blogspot.com/2013/10/zebra-configuration-for-regional_2.html
-http://lists.katipo.co.nz/public/koha/2011-January/027171.html
-
-http://wiki.koha-community.org/wiki/Understanding_Zebra_indexing
-http://manual.koha-community.org/3.2/en/searchguide.html
