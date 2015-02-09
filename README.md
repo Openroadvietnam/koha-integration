@@ -13,6 +13,6 @@ Cấu hình và kích hoạt đăng nhập ứng dụng thực hiện qua giao d
 ###Tài liệu
 Tài liệu hướng dẫn cài đặt và tích hợp Koha tham khảo [đường dẫn]  (http://koha.vn).
 ###Kênh thông tin
-•	IRC: #openroad on irc.freenode.net
-•	Mailing list: ([http://lists.openroad.vn/mailman/listinfo/])
+*	IRC: openroad on irc.freenode.net
+*	Mailing list: http://lists.openroad.vn/mailman/listinfo/
 ##Giấy phép sử dụng
